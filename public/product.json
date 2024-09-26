@@ -1,0 +1,38 @@
+[
+  {
+    "productName": "Baby Food",
+    "productImage": "https://i.ibb.co.com/R2P7FFL/product-1.webp",
+    "productPrice": " $99.99",
+    "productTitle": "Ergonmic Linen Pants"
+  },
+  {
+    "productName": "Strawberry",
+    "productImage": "https://i.ibb.co.com/T8bxbdV/product-2.webp",
+    "productPrice": "$699.99",
+    "productTitle": "Grapeful fun facts"
+  },
+  {
+    "productName": "Onions",
+    "productImage": "https://i.ibb.co.com/q5y4Y6N/product-6.webp",
+    "productPrice": "$1299.99",
+    "productTitle": "Whole Red Onions"
+  },
+  {
+    "productName": "Brocoli",
+    "productImage": "https://i.ibb.co.com/jgz6wQs/product-3.webp",
+    "productPrice": "$199.99",
+    "productTitle": "Fitness Smartwatch with Heart Rate"
+  },
+  {
+    "productName": "Meat",
+    "productImage": "https://i.ibb.co.com/crZ3cHj/product-4.webp",
+    "productPrice": "$49.99",
+    "productTitle": "Raw Meat On White"
+  },
+  {
+    "productName": "Milk",
+    "productImage": "https://i.ibb.co.com/NnxFmL1/product-5.webp",
+    "productPrice": "$899.99",
+    "productTitle": "Chocolate Protine Booster"
+  }
+]
