@@ -1,4 +1,5 @@
 import { NavLink } from "react-router-dom";
+import { FcBusinessman } from "react-icons/fc";
 
 const Navbar = () => {
   const navLink = (
@@ -45,13 +46,18 @@ const Navbar = () => {
               {navLink}
             </ul>
           </div>
-          <a className="btn btn-ghost text-xl">daisyUI</a>
+          <a className="btn btn-ghost text-xl">
+            <img src="https://i.ibb.co.com/TkFYwnY/logo-2.png" alt="" />
+          </a>
         </div>
         <div className="navbar-center hidden lg:flex">
           <ul className="menu menu-horizontal px-1">{navLink}</ul>
         </div>
         <div className="navbar-end">
-          <a className="btn">Button</a>
+          <a className="btn btn-outline btn-secondary">
+            <FcBusinessman className="w-20 h-10"></FcBusinessman>
+            Login
+          </a>
         </div>
       </div>
     </div>
